@@ -1,2 +1,6 @@
 let myName = "Arman";
-console.log(myName);
+let mySurname = "Hossain"
+
+let myFullName = myName + mySurname;
+
+console.log(myFullName);
